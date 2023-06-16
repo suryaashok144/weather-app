@@ -1,0 +1,15 @@
+.body1{
+    background-color: antiquewhite;
+    text-align: center;
+}
+#user{
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 5px ;border: 0.8px solid black;
+}
+#button{
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 5px ;border: 0.8px solid black;
+}
+h3{
+    font-family: Arial, Helvetica, sans-serif;color: blueviolet;
+}
